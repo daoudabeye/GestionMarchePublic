@@ -1,0 +1,12 @@
+{
+ "culture": "fr",
+ "texts": {
+  "Welcome_Title": "Bienvenue",
+  "Welcome_Text": "Il s'agit d'une plateforme de gestion documentaire.",
+  "Menu:Home": "Accueil",
+  "Menu:Demands": "Demandes",
+  "Menu:Demands:Cards": "Demands Carte",
+  "Menu:Form": "Formulaire",
+  "Menu:Dashboard": "Tableau de board"
+ }
+}

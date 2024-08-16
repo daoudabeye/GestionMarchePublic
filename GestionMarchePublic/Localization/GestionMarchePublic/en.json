@@ -1,0 +1,12 @@
+{
+  "culture": "en",
+  "texts": {
+    "Welcome_Title": "Welcome",
+    "Welcome_Text": "This is a minimalist, single layer application.",
+    "Menu:Home": "Home",
+    "Menu:Demands": "Demands",
+    "Menu:Demands:Cards": "Demands Cards",
+    "Menu:Form": "Form",
+    "Menu:Dashboard": "Dashboard"
+  }
+}
